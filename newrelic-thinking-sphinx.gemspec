@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = 'newrelic-thinking-sphinx'
-  spec.version = '0.1'
+  spec.version = '0.1.1'
 
   spec.author = 'Tom Harris'
   spec.email = 'thomaspec.e.harris@gmail.com'
