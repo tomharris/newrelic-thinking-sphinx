@@ -1,0 +1,1 @@
+require 'newrelic_thinking_sphinx/instrumentation'
