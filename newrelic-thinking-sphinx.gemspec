@@ -3,7 +3,7 @@ Gem::Specification.new do |spec|
   spec.version = '0.1.1'
 
   spec.author = 'Tom Harris'
-  spec.email = 'thomaspec.e.harris@gmail.com'
+  spec.email = 'thomas.e.harris@gmail.com'
   spec.description = 'Thinking-Sphinx instrumentation for New Relic. Get performance metrics for Thinking-Sphinx in New Relic'
   spec.summary = 'Thinking-Sphinx instrumentation for New Relic.'
 
