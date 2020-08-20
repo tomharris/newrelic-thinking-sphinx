@@ -13,6 +13,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
   spec.required_rubygems_version = '>= 1.3.6'
 
-  spec.add_dependency 'newrelic_rpm', '~> 3.0'
-  spec.add_dependency 'thinking-sphinx', '~> 3.0.0'
+  spec.add_dependency 'newrelic_rpm', '~> 3.15'
+  spec.add_dependency 'thinking-sphinx', '~> 3.4.2'
 end
